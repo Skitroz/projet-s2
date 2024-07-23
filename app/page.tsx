@@ -17,7 +17,7 @@ export default function Home() {
       <header className="py-4 bg-[#FFFFF0] flex justify-between px-[200px] items-center">
         <Image src={Work} alt="work" width={500} />
         <div className="flex flex-col gap-2">
-          <h1 className="text-4xl font-bold">Des compétences d'aujourd’hui qui ont de l'avenir</h1>
+          <h1 className="text-4xl font-bold">Des compétences d&apos;aujourd&apos;hui qui ont de l&apos;avenir</h1>
           <p className="text-md">Notre différence ? Une école 100% en ligne et un modèle pédagogique unique qui seront les clés de votre réussite.</p>
         </div>
       </header>
@@ -27,7 +27,7 @@ export default function Home() {
       <main>
         <div className="flex flex-col gap-2">
           <h2 className="text-center text-3xl mt-[100px] font-bold">Savoir. Faire. Savoir-faire.</h2>
-          <p className="font-light text-md text-center">Avec OpenClassrooms, découvrez une nouvelle façon d'apprendre : 20% de théorie, 80% de pratique.</p>
+          <p className="font-light text-md text-center">Avec OpenClassrooms, découvrez une nouvelle façon d&apos;apprendre : 20% de théorie, 80% de pratique.</p>
         </div>
         <div className="flex justify-center items-center gap-[200px] mt-[50px]">
           <div className="flex flex-col gap-2 items-center">
